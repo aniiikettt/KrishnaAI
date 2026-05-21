@@ -1,3 +1,28 @@
+# VoxMind AI
+
+This repository is an import of the Krishna-AI project, renamed to **VoxMind AI**.
+
+Original source: https://github.com/parthsahay24/Krishna-AI
+
+## About
+
+VoxMind AI contains the codebase imported from Krishna-AI. Keep or update this README with your project-specific details, usage instructions, and required configuration.
+
+## Quick start
+
+1. Inspect repository files and configuration.
+2. Follow any language/runtime-specific instructions inside the project (Python/Node/etc.).
+3. To run locally (example):
+
+```powershell
+cd "C:\Users\ANIKET\OneDrive\Desktop\AI PROJECT\VoxMind AI"
+# install deps and run according to the project's instructions
+```
+
+## Notes
+
+- Imported from Krishna-AI; adapt licence and attribution as needed.
+- Update this file with project description, installation, usage, and contribution guidelines.
 # 🦚 Krishna AI: Your Personal Hinglish Voice Assistant
 
 
