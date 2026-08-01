@@ -1,4 +1,4 @@
-# 🎙️ VoxMind AI – Real-Time Voice AI Assistant
+# 🎙️ Krishna AI – Real-Time Voice AI Assistant
 
 VoxMind AI is a real-time voice AI assistant designed for low-latency, scalable voice interactions. Built with modern asynchronous backend architecture, it enables seamless voice communication, intelligent AI responses, and resilient execution with fallback handling.
 
